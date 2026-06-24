@@ -1,0 +1,713 @@
+{"tokens": ["அவர்", "மருத்துவமனைக்கு", "இருக்கிறார்கள்", "."], "input_ids": [7, 63, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவள்", "நாளை", "வருகிறார்கள்", "."], "input_ids": [6, 83, 128, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாளை", "நாங்கள்", "நகரத்தில்", "சாப்பிட்டோம்", "."], "input_ids": [83, 2, 58, 231, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["எழுதுகிறாள்", "அவள்", "வகுப்பில்", "."], "input_ids": [145, 6, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீ", "விரைவாக", "எழுதினேன்", "."], "input_ids": [3, 84, 240, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "மருத்துவமனைக்கு", "இருக்கிறார்கள்", "."], "input_ids": [7, 63, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "நூலகத்தில்", "சாப்பிட்டார்", "."], "input_ids": [83, 7, 55, 236, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நீ", "மருத்துவமனையில்", "படிக்கிறாய்", "."], "input_ids": [3, 54, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அவர்", "சாப்பிடுவார்", "."], "input_ids": [82, 7, 336, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["வருகிறது", "அது", "பள்ளியில்", "."], "input_ids": [127, 9, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்", "சாப்பிடுகிறார்", "."], "input_ids": [7, 136, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "வீடு இல்", "."], "input_ids": [6, 18143, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவள்", "இன்று", "மருத்துவமனைக்கு", "படிக்கிறீர்கள்", "."], "input_ids": [6, 81, 63, 103, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீ", "பார்கிறான்", "."], "input_ids": [3, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நாளை", "அவன்", "பள்ளியில்", "போனான்", "."], "input_ids": [83, 5, 50, 214, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவள்", "மெதுவாக", "சாப்பிடுகிறாள்", "."], "input_ids": [6, 85, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "வருகிறார்", "."], "input_ids": [7, 126, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அது", "நூலகத்தில்", "எழுதுகிறோம்", "."], "input_ids": [9, 55, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "மாணவன்", "போகிறோம்", "."], "input_ids": [2, 20, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "மருத்துவமனையில்", "பேசுகிறார்கள்", "."], "input_ids": [8, 54, 178, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "நாளை", "நகரத்தில்", "எழுதுகிறார்", "."], "input_ids": [7, 83, 58, 146, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "கடிதத்தை", "படிப்பேன்", "."], "input_ids": [4, 71, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "நேற்று", "காட்டில்", "விளையாடுகிறேன்", "."], "input_ids": [3, 82, 59, 180, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவன்", "நகரத்தில்", "எழுதுகிறாள்", "."], "input_ids": [5, 58, 145, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்", "நாளை", "மருத்துவமனைக்கு", "படிக்கிறார்", "."], "input_ids": [7, 83, 63, 106, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "எழுதினார்", "."], "input_ids": [83, 7, 246, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவள்", "வீடு இல்", "."], "input_ids": [6, 18143, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நாங்கள்", "வயலில்", "சாப்பிட்டோம்", "."], "input_ids": [2, 57, 231, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "சந்தை இல்", "."], "input_ids": [6, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்கள்", "குழந்தை", "போகிறார்கள்", "."], "input_ids": [8, 47, 118, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீ", "எழுதுகிறார்கள்", "."], "input_ids": [3, 148, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நாங்கள்", "நகரத்தில்", "பார்த்தோம்", "."], "input_ids": [2, 58, 251, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "பழத்தை", "பேசுகிறேன்", "."], "input_ids": [4, 74, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "புத்தகத்தை", "போனான்", "."], "input_ids": [5, 70, 214, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "இன்று", "எழுதுகிறான்", "."], "input_ids": [6, 81, 144, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "சந்தைக்கு", "இருக்கிறோம்", "."], "input_ids": [9, 62, 191, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவள்", "விரைவாக", "கோவிலில்", "சாப்பிடுவாள்", "."], "input_ids": [6, 84, 56, 335, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["சாப்பிடுகிறீர்கள்", "நீங்கள்", "கோவிலில்", "."], "input_ids": [133, 4, 56, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "மாணவன", "."], "input_ids": [5, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "வருகிறாள்", "."], "input_ids": [5, 125, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவர்", "சந்தையில்", "பார்த்தார்", "."], "input_ids": [7, 53, 256, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "விரைவாக", "கோவிலுக்கு", "இருக்கிறேன்", "."], "input_ids": [6, 84, 69, 190, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அது", "பையை", "வந்தேன்", "."], "input_ids": [9, 75, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 83, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நேற்று", "வகுப்பில்", "சாப்பிடுகிறாள்", "."], "input_ids": [6, 82, 52, 135, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "ஆசிரியர்", "போகிறீர்கள்", "."], "input_ids": [4, 25, 113, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "கணினியை", "பார்க்கிறீர்கள்", "."], "input_ids": [4, 76, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "பார்க்கிறீர்கள்", "."], "input_ids": [5, 153, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவர்கள்", "நாங்கல்", "."], "input_ids": [8, 14541, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நீ", "நூலகத்தில்", "பார்க்கிறீர்கள்", "."], "input_ids": [3, 55, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "ஆசிரியர்", "வருகிறார்கள்", "."], "input_ids": [8, 25, 128, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "பல்லி", "."], "input_ids": [8, 18401, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "வயலில்", "சாப்பிடுவான்", "."], "input_ids": [5, 57, 334, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["போகிறோம்", "நாங்கள்", "வயலில்", "."], "input_ids": [111, 2, 57, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "குழந்தை", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 47, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாங்கள்", "குழந்தை", "போகிறோம்", "."], "input_ids": [2, 47, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீ", "நூலகம் இல்", "."], "input_ids": [3, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "சந்தையில்", "ஓடுகிறான்", "."], "input_ids": [5, 53, 164, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நாளை", "எழுதுகிறான்", "."], "input_ids": [8, 83, 144, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவன்", "பார்க்கிறாள்", "."], "input_ids": [5, 155, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["நேற்று", "நாங்கள்", "கோவிலில்", "படிப்போம்", "."], "input_ids": [82, 2, 56, 301, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவன்", "நாளை", "வீட்டில்", "படித்தான்", "."], "input_ids": [5, 83, 51, 204, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "ஆசிரியர்", "படிக்கிறார்கள்", "."], "input_ids": [8, 25, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "புத்தகத்தை", "படிக்கிறீர்கள்", "."], "input_ids": [4, 70, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "வயலில்", "படிக்கிறோம்", "."], "input_ids": [5, 57, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அது", "பார்கிறான்", "."], "input_ids": [9, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நாளை", "அது", "கோவிலில்", "சாப்பிட்டேன்", "."], "input_ids": [83, 9, 56, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "மாணவன்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 20, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "விரைவாக", "காட்டில்", "பேசுகிறார்கள்", "."], "input_ids": [8, 84, 59, 178, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "வகுப்பில்", "எழுதுகிறேன்", "."], "input_ids": [1, 52, 140, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நூலகத்திற்கு", "படிக்கிறார்", "."], "input_ids": [5, 68, 106, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "பையை", "ஓடுகிறேன்", "."], "input_ids": [4, 75, 160, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "வீட்டில்", "சாப்பிட்டார்கள்", "."], "input_ids": [83, 8, 51, 238, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நீங்கள்", "நூலகத்திற்கு", "இருக்கிறார்", "."], "input_ids": [4, 68, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "படிக்றான்", "."], "input_ids": [8, 12157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நான்", "பார்க்கிறேன்", "."], "input_ids": [1, 150, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாங்கள்", "தினமும்", "நூலகத்தில்", "வருகிறோம்", "."], "input_ids": [2, 80, 55, 121, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["படிக்கிறார்கள்", "அவர்கள்", "பள்ளியில்", "."], "input_ids": [108, 8, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீ", "விரைவாக", "நூலகத்தில்", "இருக்கிறேன்", "."], "input_ids": [3, 84, 55, 190, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவன்", "படிக்றான்", "."], "input_ids": [5, 12157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவர்", "தினமும்", "நூலகத்தில்", "சாப்பிடுகிறார்", "."], "input_ids": [7, 80, 55, 136, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அது", "வீட்டில்", "எழுதுகிறார்கள்", "."], "input_ids": [9, 51, 148, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "நீ", "வருவேன்", "."], "input_ids": [82, 3, 320, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவன்", "நேற்று", "சாப்பிடுகிறோம்", "."], "input_ids": [5, 82, 131, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "மெதுவாக", "ஓடுகிறார்கள்", "."], "input_ids": [8, 85, 168, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "நேற்று", "வருகிறோம்", "."], "input_ids": [1, 82, 121, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "விரைவாக", "போனார்கள்", "."], "input_ids": [8, 84, 218, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "வகுப்பில்", "சாப்பிடுவோம்", "."], "input_ids": [2, 52, 331, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நண்பன்", "படிக்கிறார்கள்", "."], "input_ids": [8, 45, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாங்கள்", "நூலகத்திற்கு", "படிக்கிறாய்", "."], "input_ids": [2, 68, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "பள்ளி இல்", "."], "input_ids": [8, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நாளை", "அது", "படித்தேன்", "."], "input_ids": [83, 9, 200, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீ", "பள்ளிக்கு", "இருக்கிறார்", "."], "input_ids": [3, 60, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "நூலகம் இல்", "."], "input_ids": [3, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்கள்", "ஆசிரியர்", "பார்க்கிறார்கள்", "."], "input_ids": [8, 25, 158, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "தினமும்", "சாப்பிடுகிறான்", "."], "input_ids": [6, 80, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "பாலை", "வருகிறது", "."], "input_ids": [9, 77, 127, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "புத்தகத்தை", "சாப்பிடுகிறான்", "."], "input_ids": [5, 70, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அது", "சாப்பிடுவேன்", "."], "input_ids": [82, 9, 330, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "சாப்பிட்டார்கள்", "."], "input_ids": [8, 238, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீங்கள்", "தினமும்", "நகரத்தில்", "விளையாடுகிறேன்", "."], "input_ids": [4, 80, 58, 180, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "நூலகத்திற்கு", "படிக்கிறாய்", "."], "input_ids": [8, 80, 68, 102, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "பார்க்கிறான்", "."], "input_ids": [8, 154, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நீ", "விரைவாக", "மருத்துவமனையில்", "வருவேன்", "."], "input_ids": [3, 84, 54, 320, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["படிக்கிறோம்", "நாங்கள்", "நூலகத்தில்", "."], "input_ids": [101, 2, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நான்", "போகிறோம்", "."], "input_ids": [1, 111, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவள்", "விரைவாக", "சாப்பிடுகிறான்", "."], "input_ids": [6, 84, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவன்", "வீட்டிற்கு", "இருக்கிறார்கள்", "."], "input_ids": [5, 61, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "கோவிலில்", "வந்தார்கள்", "."], "input_ids": [83, 8, 56, 228, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாளை", "நாங்கள்", "வயலில்", "படித்தோம்", "."], "input_ids": [83, 2, 57, 201, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "மருத்துவமனையில்", "படிக்கிறார்கள்", "."], "input_ids": [8, 54, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "இன்று", "எழுதுகிறீர்கள்", "."], "input_ids": [4, 81, 143, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "புத்தகத்தை", "பார்க்கிறது", "."], "input_ids": [9, 70, 157, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "எழுதுகிறார்", "."], "input_ids": [8, 80, 146, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "மருத்துவமனையில்", "எழுதினோம்", "."], "input_ids": [2, 54, 241, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "காட்டில்", "போகிறான்", "."], "input_ids": [5, 59, 114, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "வீட்டில்", "படித்தேன்", "."], "input_ids": [1, 51, 200, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "மெதுவாக", "விளையாடுகிறேன்", "."], "input_ids": [9, 85, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "சாப்பிட்டேன்", "."], "input_ids": [9, 230, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "பையை", "வந்தான்", "."], "input_ids": [5, 75, 224, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நாளை", "வருகிறான்", "."], "input_ids": [6, 83, 124, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "நூலகத்தில்", "எழுதுகிறோம்", "."], "input_ids": [9, 55, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "விரைவாக", "சந்தையில்", "படிக்கிறோம்", "."], "input_ids": [2, 84, 53, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நேற்று", "நீ", "சாப்பிடுவேன்", "."], "input_ids": [82, 3, 330, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "பார்கிறான்", "."], "input_ids": [8, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவள்", "நேற்று", "சாப்பிடுகிறாள்", "."], "input_ids": [6, 82, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "விரைவாக", "நூலகத்தில்", "இருக்கிறோம்", "."], "input_ids": [2, 84, 55, 191, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "கோவிலில்", "எழுதுகிறேன்", "."], "input_ids": [1, 56, 140, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "படிக்கிறான்", "."], "input_ids": [6, 104, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவன்", "பள்ளியில்", "போவான்", "."], "input_ids": [5, 50, 314, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர்", "எழுதுகிறோம்", "."], "input_ids": [2, 25, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாளை", "நீ", "வந்தேன்", "."], "input_ids": [83, 3, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவன்", "நேற்று", "வருகிறாள்", "."], "input_ids": [5, 82, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["படிக்கிறான்", "அவன்", "காட்டில்", "."], "input_ids": [104, 5, 59, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "தினமும்", "பார்க்கிறான்", "."], "input_ids": [6, 80, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "தண்ணீரை", "வருகிறது", "."], "input_ids": [9, 73, 127, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "விரைவாக", "எழுதுகிறார்கள்", "."], "input_ids": [3, 84, 148, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "போகிறான் கள்", "."], "input_ids": [8, 4801, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "இன்று", "போகிறோம்", "."], "input_ids": [5, 81, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நான்", "மெதுவாக", "விளையாடுகிறேன்", "."], "input_ids": [1, 85, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "பேசுகிறோம்", "."], "input_ids": [2, 171, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "தினமும்", "சாப்பிட்டான்", "."], "input_ids": [5, 80, 234, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "தினமும்", "வருகிறீர்கள்", "."], "input_ids": [7, 80, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவன்", "பள்ளியில்", "சாப்பிடுகிறாள்", "."], "input_ids": [5, 50, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாங்கள்", "நண்பன்", "போகிறோம்", "."], "input_ids": [2, 45, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "படிக்கிறான் கள்", "."], "input_ids": [4, 17669, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நாங்கள்", "இன்று", "கோவிலில்", "ஓடுகிறோம்", "."], "input_ids": [2, 81, 56, 161, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்", "இன்று", "சந்தையில்", "வந்தார்", "."], "input_ids": [7, 81, 53, 226, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["வருகிறாள்", "அவள்", "வகுப்பில்", "."], "input_ids": [125, 6, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்", "நூலகத்தில்", "பார்க்கிறீர்கள்", "."], "input_ids": [7, 55, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "நான்", "படிப்பேன்", "."], "input_ids": [82, 1, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["போகிறான்", "அவன்", "நகரத்தில்", "."], "input_ids": [114, 5, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்", "பள்ளி இல்", "."], "input_ids": [7, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அது", "தண்ணீரை", "எழுதுகிறது", "."], "input_ids": [9, 73, 147, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நூலகத்தில்", "படிக்கிறார்கள்", "."], "input_ids": [5, 55, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "தினமும்", "மருத்துவமனையில்", "போவாள்", "."], "input_ids": [6, 80, 54, 315, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவன்", "சாப்பிடுவான்", "."], "input_ids": [5, 334, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாங்கள்", "வருகிறான் கள்", "."], "input_ids": [2, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவள்", "இன்று", "பேசுகிறாள்", "."], "input_ids": [6, 81, 175, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "எழுதுகிறாள்", "."], "input_ids": [5, 145, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அது", "பார்க்கிறது", "."], "input_ids": [9, 157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "வருகிறான் கள்", "."], "input_ids": [6, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நேற்று", "நீ", "சந்தையில்", "படிப்பேன்", "."], "input_ids": [82, 3, 53, 300, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவன்", "பார்கிறான்", "."], "input_ids": [5, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "பார்க்கிறான்", "."], "input_ids": [5, 154, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "பள்ளியில்", "வருவாள்", "."], "input_ids": [6, 50, 325, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நேற்று", "வீட்டிற்கு", "இருக்கிறார்", "."], "input_ids": [4, 82, 61, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "எழுதுகிறான்", "."], "input_ids": [2, 144, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அது", "விரைவாக", "பார்க்கிறது", "."], "input_ids": [9, 84, 157, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "கோவிலில்", "இருக்கிறேன்", "."], "input_ids": [4, 56, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "நகரத்தில்", "படிக்கிறாய்", "."], "input_ids": [3, 58, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["படிக்கிறோம்", "நாங்கள்", "வகுப்பில்", "."], "input_ids": [101, 2, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "சந்தை இல்", "."], "input_ids": [8, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நேற்று", "அவர்கள்", "நகரத்தில்", "சாப்பிடுவார்கள்", "."], "input_ids": [82, 8, 58, 338, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நான்", "மாணவன", "."], "input_ids": [1, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "தினமும்", "படிக்கிறான்", "."], "input_ids": [5, 80, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நாளை", "எழுதுகிறாள்", "."], "input_ids": [5, 83, 145, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்கள்", "பழத்தை", "பார்த்தார்கள்", "."], "input_ids": [8, 74, 258, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நேற்று", "மருத்துவமனைக்கு", "இருக்கிறார்", "."], "input_ids": [8, 82, 63, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "மாணவன", "."], "input_ids": [8, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவள்", "விளையாடுகிறாள்", "."], "input_ids": [6, 185, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நேற்று", "அவர்கள்", "நூலகத்தில்", "போவார்கள்", "."], "input_ids": [82, 8, 55, 318, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "வருகிறீர்கள்", "."], "input_ids": [4, 45, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாங்கள்", "பள்ளியில்", "வருகிறாள்", "."], "input_ids": [2, 50, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீ", "பார்த்தேன்", "."], "input_ids": [3, 250, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["எழுதுகிறார்", "அவர்", "கோவிலில்", "."], "input_ids": [146, 7, 56, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அது", "வீட்டிற்கு", "இருக்கிறார்", "."], "input_ids": [9, 61, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவன்", "வகுப்பில்", "வருகிறாள்", "."], "input_ids": [5, 52, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாங்கள்", "தினமும்", "விளையாடுகிறோம்", "."], "input_ids": [2, 80, 181, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நேற்று", "எழுதுகிறான்", "."], "input_ids": [6, 82, 144, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "பள்ளிக்கு", "இருக்கிறேன்", "."], "input_ids": [4, 83, 60, 190, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்", "மாணவன", "."], "input_ids": [7, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["படிக்கிறார்", "அவர்", "சந்தையில்", "."], "input_ids": [106, 7, 53, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "வீடு இல்", "."], "input_ids": [4, 18143, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["போகிறேன்", "நான்", "வயலில்", "."], "input_ids": [110, 1, 57, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "போகிறீர்கள்", "."], "input_ids": [4, 113, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "இன்று", "நூலகத்திற்கு", "இருக்கிறார்கள்", "."], "input_ids": [6, 81, 68, 198, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "சாப்பிடுகிறாள்", "."], "input_ids": [5, 84, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவன்", "கடிதத்தை", "ஓடினான்", "."], "input_ids": [5, 71, 264, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "நாளை", "போவேன்", "."], "input_ids": [9, 83, 310, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "ஆசிரியர்", "படிக்கிறீர்கள்", "."], "input_ids": [4, 25, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "மாணவன்", "போகிறார்கள்", "."], "input_ids": [8, 20, 118, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "இன்று", "போனான்", "."], "input_ids": [5, 81, 214, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["போகிறார்கள்", "அவர்கள்", "நகரத்தில்", "."], "input_ids": [118, 8, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நேற்று", "அவர்கள்", "சாப்பிடுவார்கள்", "."], "input_ids": [82, 8, 338, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["பார்க்கிறான்", "அவன்", "பள்ளியில்", "."], "input_ids": [154, 5, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "தினமும்", "சாப்பிட்டான்", "."], "input_ids": [5, 80, 234, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "விரைவாக", "எழுதுகிறார்கள்", "."], "input_ids": [9, 84, 148, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "எழுதுகிறது", "."], "input_ids": [8, 147, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நான்", "ஆசிரியர", "."], "input_ids": [1, 30590, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவர்கள்", "பள்ளிக்கு", "இருக்கிறார்", "."], "input_ids": [8, 60, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["போகிறார்", "அவர்", "நூலகத்தில்", "."], "input_ids": [116, 7, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாளை", "அது", "மருத்துவமனையில்", "சாப்பிட்டேன்", "."], "input_ids": [83, 9, 54, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நேற்று", "நீ", "நூலகத்தில்", "படிப்பேன்", "."], "input_ids": [82, 3, 55, 300, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாங்கள்", "பள்ளி இல்", "."], "input_ids": [2, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவள்", "வகுப்பில்", "படிக்கிறீர்கள்", "."], "input_ids": [6, 52, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "வீட்டிற்கு", "இருக்கிறான்", "."], "input_ids": [2, 61, 194, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "புத்தகத்தை", "சாப்பிடுவேன்", "."], "input_ids": [4, 70, 330, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "வயலில்", "சாப்பிடுகிறாள்", "."], "input_ids": [5, 57, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்கள்", "போகிறார்கள்", "."], "input_ids": [8, 118, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "பள்ளிக்கு", "படிக்கிறோம்", "."], "input_ids": [5, 84, 60, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீ", "காட்டில்", "பார்க்கிறாய்", "."], "input_ids": [3, 59, 152, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "நாளை", "படித்தார்", "."], "input_ids": [7, 83, 206, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "பல்லி", "."], "input_ids": [6, 18401, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["வருகிறது", "அது", "பள்ளியில்", "."], "input_ids": [127, 9, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "குழந்தை", "பார்க்கிறோம்", "."], "input_ids": [2, 47, 151, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அது", "நாளை", "வருகிறோம்", "."], "input_ids": [9, 83, 121, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீங்கள்", "பழத்தை", "படிப்பேன்", "."], "input_ids": [4, 74, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "இன்று", "எழுதுகிறீர்கள்", "."], "input_ids": [6, 81, 143, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர்", "பார்க்கிறோம்", "."], "input_ids": [2, 25, 151, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீ", "வருகிறான் கள்", "."], "input_ids": [3, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "மருத்துவமனைக்கு", "இருக்கிறான்", "."], "input_ids": [5, 63, 194, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவன்", "சந்தை இல்", "."], "input_ids": [5, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவள்", "இன்று", "வந்தாள்", "."], "input_ids": [6, 81, 225, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "நாங்கள்", "காட்டில்", "சாப்பிடுவோம்", "."], "input_ids": [82, 2, 59, 331, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அது", "மாணவன", "."], "input_ids": [9, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவர்கள்", "சந்தைக்கு", "இருக்கிறார்கள்", "."], "input_ids": [8, 62, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "ஓடினோம்", "."], "input_ids": [2, 261, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நான்", "இன்று", "வருகிறேன்", "."], "input_ids": [1, 81, 120, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "இன்று", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 81, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நேற்று", "சாப்பிட்டாள்", "."], "input_ids": [6, 82, 235, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "வீட்டிற்கு", "படிக்கிறார்", "."], "input_ids": [9, 61, 106, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "நேற்று", "கோவிலில்", "எழுதுகிறாய்", "."], "input_ids": [3, 82, 56, 142, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "விரைவாக", "பார்க்கிறார்", "."], "input_ids": [8, 84, 156, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["போகிறது", "அது", "கோவிலில்", "."], "input_ids": [117, 9, 56, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "சந்தையில்", "எழுதுகிறோம்", "."], "input_ids": [2, 53, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "நூலகத்தில்", "சாப்பிட்டார்கள்", "."], "input_ids": [83, 8, 55, 238, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாங்கள்", "வீட்டில்", "இருக்கிறோம்", "."], "input_ids": [2, 51, 191, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["போகிறாள்", "அவள்", "மருத்துவமனையில்", "."], "input_ids": [115, 6, 54, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "காட்டில்", "படித்தார்", "."], "input_ids": [83, 7, 59, 206, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவள்", "பார்க்கிறான்", "."], "input_ids": [6, 154, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["எழுதுகிறோம்", "நாங்கள்", "சந்தையில்", "."], "input_ids": [141, 2, 53, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாளை", "நான்", "போனேன்", "."], "input_ids": [83, 1, 210, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["சாப்பிடுகிறது", "அது", "கோவிலில்", "."], "input_ids": [137, 9, 56, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீ", "இன்று", "வருகிறோம்", "."], "input_ids": [3, 81, 121, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நான்", "சந்தைக்கு", "இருக்கிறான்", "."], "input_ids": [1, 62, 194, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "படிக்கிறார்", "."], "input_ids": [8, 106, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நீங்கள்", "மெதுவாக", "சாப்பிட்டேன்", "."], "input_ids": [4, 85, 230, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நூலகம் இல்", "."], "input_ids": [4, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["பார்க்கிறீர்கள்", "நீங்கள்", "நகரத்தில்", "."], "input_ids": [153, 4, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "நாங்கல்", "."], "input_ids": [5, 14541, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவள்", "வீட்டில்", "பார்க்கிறான்", "."], "input_ids": [6, 51, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்", "இன்று", "நூலகத்திற்கு", "படிக்கிறான்", "."], "input_ids": [7, 81, 68, 104, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "பார்த்தோம்", "."], "input_ids": [2, 251, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அது", "சந்தையில்", "போகிறது", "."], "input_ids": [9, 53, 117, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "மாணவன", "."], "input_ids": [5, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நாளை", "நாங்கள்", "போனோம்", "."], "input_ids": [83, 2, 211, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நாங்கள்", "தினமும்", "எழுதுகிறோம்", "."], "input_ids": [2, 80, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "தினமும்", "வீட்டில்", "வருகிறேன்", "."], "input_ids": [1, 80, 51, 120, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அது", "சந்தையில்", "இருக்கிறேன்", "."], "input_ids": [9, 53, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நூலகத்தில்", "படிக்கிறது", "."], "input_ids": [8, 55, 107, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அது", "வந்தேன்", "."], "input_ids": [9, 220, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்கள்", "பள்ளி இல்", "."], "input_ids": [8, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீங்கள்", "வீடு இல்", "."], "input_ids": [4, 18143, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "மருத்துவமனையில்", "விளையாடுகிறான்", "."], "input_ids": [5, 54, 184, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "சாப்பாட்டை", "விளையாடுகிறார்கள்", "."], "input_ids": [8, 72, 188, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "சாப்பிடுகிரான்", "."], "input_ids": [6, 28494, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அது", "வீட்டிற்கு", "இருக்கிறான்", "."], "input_ids": [9, 61, 194, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவன்", "வயலில்", "பார்க்கிறான்", "."], "input_ids": [5, 57, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "மெதுவாக", "பேசுகிறேன்", "."], "input_ids": [3, 85, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நூலகத்திற்கு", "இருக்கிறாள்", "."], "input_ids": [2, 68, 195, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "சந்தை இல்", "."], "input_ids": [3, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்கள்", "வந்தார்கள்", "."], "input_ids": [8, 228, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "வீட்டில்", "வந்தார்கள்", "."], "input_ids": [8, 80, 51, 228, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அது", "இன்று", "எழுதுகிறோம்", "."], "input_ids": [9, 81, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர்", "போகிறோம்", "."], "input_ids": [2, 25, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "போகிறான்", "."], "input_ids": [6, 114, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["எழுதுகிறார்கள்", "அவர்கள்", "காட்டில்", "."], "input_ids": [148, 8, 59, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாளை", "நான்", "பள்ளியில்", "சாப்பிட்டேன்", "."], "input_ids": [83, 1, 50, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவன்", "சாப்பாட்டை", "பார்க்கிறான்", "."], "input_ids": [5, 72, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "இன்று", "வருகிறார்கள்", "."], "input_ids": [7, 81, 128, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "வகுப்பில்", "எழுதுகிறது", "."], "input_ids": [8, 52, 147, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "நேற்று", "பார்க்கிறான்", "."], "input_ids": [6, 82, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "பழத்தை", "பேசுகிறேன்", "."], "input_ids": [9, 74, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "மருத்துவமனைக்கு", "இருக்கிறாள்", "."], "input_ids": [7, 63, 195, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "நண்பன்", "படிக்கிறார்கள்", "."], "input_ids": [8, 45, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "பாலை", "ஓடுகிறான்", "."], "input_ids": [5, 77, 164, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அவள்", "படிப்பாள்", "."], "input_ids": [82, 6, 305, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["வருகிறார்", "அவர்", "நகரத்தில்", "."], "input_ids": [126, 7, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "நேற்று", "வீட்டிற்கு", "இருக்கிறோம்", "."], "input_ids": [5, 82, 61, 191, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவள்", "போகிறாள்", "."], "input_ids": [6, 115, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீ", "விரைவாக", "பள்ளியில்", "வருகிறாய்", "."], "input_ids": [3, 84, 50, 122, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீ", "பார்க்கிறீர்கள்", "."], "input_ids": [3, 153, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவன்", "எழுதுகிறான்", "."], "input_ids": [5, 144, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீங்கள்", "கோவிலில்", "சாப்பிட்டேன்", "."], "input_ids": [4, 56, 230, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அது", "படிப்பேன்", "."], "input_ids": [82, 9, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நான்", "பேசுகிறேன்", "."], "input_ids": [1, 170, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அது", "மருத்துவமனையில்", "வருகிறீர்கள்", "."], "input_ids": [9, 54, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["சாப்பிடுகிறோம்", "நாங்கள்", "வீட்டில்", "."], "input_ids": [131, 2, 51, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "நூலகம் இல்", "."], "input_ids": [5, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நேற்று", "அது", "கோவிலில்", "வருவேன்", "."], "input_ids": [82, 9, 56, 320, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "சாப்பிட்டார்கள்", "."], "input_ids": [83, 8, 238, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீ", "வருகிறான் கள்", "."], "input_ids": [3, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["படிக்கிறீர்கள்", "நீங்கள்", "பள்ளியில்", "."], "input_ids": [103, 4, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "பள்ளியில்", "படிக்கிறான்", "."], "input_ids": [6, 50, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவன்", "வருகிரான்", "."], "input_ids": [5, 22037, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["வருகிறேன்", "நான்", "வகுப்பில்", "."], "input_ids": [120, 1, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "தினமும்", "சாப்பிடுகிறான்", "."], "input_ids": [6, 80, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நீ", "நேற்று", "கோவிலுக்கு", "இருக்கிறார்", "."], "input_ids": [3, 82, 69, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவன்", "எழுதுகிறாள்", "."], "input_ids": [5, 145, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவன்", "இன்று", "படிக்கிறான்", "."], "input_ids": [5, 81, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நகரத்தில்", "ஓடினான்", "."], "input_ids": [5, 58, 264, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "கோவிலுக்கு", "படிக்கிறோம்", "."], "input_ids": [4, 83, 69, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["பார்க்கிறான்", "அவன்", "காட்டில்", "."], "input_ids": [154, 5, 59, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அது", "பள்ளிக்கு", "படிக்கிறார்கள்", "."], "input_ids": [9, 60, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "பள்ளிக்கு", "இருக்கிறார்", "."], "input_ids": [3, 60, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவன்", "பையை", "படித்தான்", "."], "input_ids": [5, 75, 204, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["சாப்பிடுகிறாள்", "அவள்", "வகுப்பில்", "."], "input_ids": [135, 6, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "வீட்டில்", "இருக்கிறேன்", "."], "input_ids": [4, 51, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "வயலில்", "போகிறோம்", "."], "input_ids": [3, 57, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "பள்ளியில்", "வந்தார்கள்", "."], "input_ids": [83, 8, 50, 228, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாளை", "நீங்கள்", "சாப்பிட்டேன்", "."], "input_ids": [83, 4, 230, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவள்", "தினமும்", "வருகிறீர்கள்", "."], "input_ids": [6, 80, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "தினமும்", "கோவிலில்", "இருக்கிறாள்", "."], "input_ids": [6, 80, 56, 195, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவள்", "பார்க்கிறான்", "."], "input_ids": [6, 154, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவர்கள்", "நேற்று", "ஓடுகிறார்கள்", "."], "input_ids": [8, 82, 168, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நாளை", "சாப்பிட்டோம்", "."], "input_ids": [2, 83, 231, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "மாணவன்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 20, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "மாணவன்", "போகிறீர்கள்", "."], "input_ids": [4, 20, 113, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "வயலில்", "போனார்கள்", "."], "input_ids": [8, 57, 218, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "வருகிறீர்கள்", "."], "input_ids": [9, 123, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவர்கள்", "வருகிறார்கள்", "."], "input_ids": [8, 128, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "படிக்றான்", "."], "input_ids": [6, 12157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "காட்டில்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [5, 59, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவன்", "தினமும்", "வருகிறாள்", "."], "input_ids": [5, 80, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாங்கள்", "வகுப்பில்", "போகிறேன்", "."], "input_ids": [2, 52, 110, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "அவர்கள்", "படிப்பார்கள்", "."], "input_ids": [82, 8, 308, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அது", "கோவிலுக்கு", "படிக்கிறோம்", "."], "input_ids": [9, 69, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்", "படிக்கிறார்", "."], "input_ids": [7, 106, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "இன்று", "சாப்பிடுகிறாள்", "."], "input_ids": [5, 81, 135, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாங்கள்", "வீட்டில்", "எழுதுகிறோம்", "."], "input_ids": [2, 51, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "சந்தையில்", "எழுதினோம்", "."], "input_ids": [2, 53, 241, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவன்", "சாப்பிட்டான்", "."], "input_ids": [83, 5, 234, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நாளை", "நான்", "கோவிலில்", "சாப்பிட்டேன்", "."], "input_ids": [83, 1, 56, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நேற்று", "அவள்", "சாப்பிடுவாள்", "."], "input_ids": [82, 6, 335, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவள்", "கோவிலில்", "வருகிறோம்", "."], "input_ids": [6, 56, 121, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "பள்ளி இல்", "."], "input_ids": [8, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்", "படிக்கிறீர்கள்", "."], "input_ids": [7, 103, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நான்", "வகுப்பில்", "படிப்பேன்", "."], "input_ids": [1, 52, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "போனாள்", "."], "input_ids": [6, 215, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "நூலகத்தில்", "எழுதுகிறாள்", "."], "input_ids": [5, 55, 145, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நீ", "நூலகத்தில்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [3, 55, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாளை", "அவர்கள்", "நூலகத்தில்", "எழுதினார்கள்", "."], "input_ids": [83, 8, 55, 248, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நீ", "சாப்பாட்டை", "சாப்பிடுகிறாய்", "."], "input_ids": [3, 72, 132, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவள்", "வீட்டில்", "சாப்பிட்டாள்", "."], "input_ids": [83, 6, 51, 235, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அது", "போகிரான்", "."], "input_ids": [9, 24468, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நான்", "வருகிறான் கள்", "."], "input_ids": [1, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["பார்க்கிறாய்", "நீ", "மருத்துவமனையில்", "."], "input_ids": [152, 3, 54, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "மாணவன்", "படிக்கிறோம்", "."], "input_ids": [2, 20, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "வீட்டில்", "சாப்பிடுவார்கள்", "."], "input_ids": [8, 51, 338, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "தினமும்", "சாப்பிட்டோம்", "."], "input_ids": [2, 80, 231, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "கணினியை", "படித்தார்", "."], "input_ids": [7, 76, 206, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "வருகிறாள்", "."], "input_ids": [4, 125, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவன்", "விரைவாக", "வீட்டில்", "வந்தான்", "."], "input_ids": [5, 84, 51, 224, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீ", "பழத்தை", "படிக்கிறாய்", "."], "input_ids": [3, 74, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "அவர்கல்", "."], "input_ids": [4, 24094, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நேற்று", "அவன்", "வருவான்", "."], "input_ids": [82, 5, 324, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீ", "நேற்று", "சாப்பிட்டேன்", "."], "input_ids": [3, 82, 230, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "தினமும்", "காட்டில்", "படித்தேன்", "."], "input_ids": [3, 80, 59, 200, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நேற்று", "நான்", "வீட்டில்", "சாப்பிடுவேன்", "."], "input_ids": [82, 1, 51, 330, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவன்", "சாப்பிடுவான்", "."], "input_ids": [5, 334, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "காட்டில்", "போகிறாள்", "."], "input_ids": [5, 59, 115, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["படிக்கிறார்", "அவர்", "நகரத்தில்", "."], "input_ids": [106, 7, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீ", "வயலில்", "படிக்கிறாய்", "."], "input_ids": [3, 57, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "நாளை", "போகிறார்கள்", "."], "input_ids": [1, 83, 118, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "பள்ளிக்கு", "படிக்கிறாய்", "."], "input_ids": [6, 60, 102, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவள்", "வகுப்பில்", "வருகிறான்", "."], "input_ids": [6, 52, 124, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாளை", "நீங்கள்", "வந்தேன்", "."], "input_ids": [83, 4, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீங்கள்", "மாணவன்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 20, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அது", "இன்று", "பேசுகிறேன்", "."], "input_ids": [9, 81, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "சந்தையில்", "சாப்பிடுகிறேன்", "."], "input_ids": [4, 53, 130, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாளை", "அது", "எழுதினேன்", "."], "input_ids": [83, 9, 240, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "ஆசிரியர்", "பார்க்கிறார்கள்", "."], "input_ids": [8, 25, 158, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "படிக்கிறான்", "."], "input_ids": [6, 104, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["நான்", "சாப்பிடுகிறேன்", "."], "input_ids": [1, 130, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்கள்", "குழந்தை", "வருகிறார்கள்", "."], "input_ids": [8, 47, 128, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "போகிறீர்கள்", "."], "input_ids": [6, 113, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவன்", "பையை", "சாப்பிடுகிறான்", "."], "input_ids": [5, 75, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "பார்க்கிறார்கள்", "."], "input_ids": [8, 158, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நேற்று", "அது", "படிப்பேன்", "."], "input_ids": [82, 9, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவன்", "மருத்துவமனையில்", "எழுதுகிறாள்", "."], "input_ids": [5, 54, 145, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்", "கோவிலில்", "பேசுகிறார்", "."], "input_ids": [7, 56, 176, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "விரைவாக", "வகுப்பில்", "சாப்பிட்டேன்", "."], "input_ids": [1, 84, 52, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "வயலில்", "போகிறது", "."], "input_ids": [2, 57, 117, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்", "வீட்டில்", "பார்க்கிறார்கள்", "."], "input_ids": [7, 51, 158, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீ", "இன்று", "விளையாடுகிறேன்", "."], "input_ids": [3, 81, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "எழுதினேன்", "."], "input_ids": [1, 240, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாளை", "நீங்கள்", "போனேன்", "."], "input_ids": [83, 4, 210, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீ", "விரைவாக", "விளையாடுகிறேன்", "."], "input_ids": [3, 84, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["எழுதுகிறது", "அது", "வகுப்பில்", "."], "input_ids": [147, 9, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 45, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["சாப்பிடுகிறோம்", "நாங்கள்", "மருத்துவமனையில்", "."], "input_ids": [131, 2, 54, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர்", "போகிறோம்", "."], "input_ids": [2, 25, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்", "மருத்துவமனைக்கு", "இருக்கிறேன்", "."], "input_ids": [7, 63, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர", "."], "input_ids": [2, 30590, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["எழுதுகிறார்கள்", "அவர்கள்", "வகுப்பில்", "."], "input_ids": [148, 8, 52, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "விரைவாக", "வீட்டிற்கு", "இருக்கிறோம்", "."], "input_ids": [6, 84, 61, 191, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீ", "நேற்று", "பேசுகிறேன்", "."], "input_ids": [3, 82, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நண்பன்", "சாப்பிடுகிறோம்", "."], "input_ids": [2, 45, 131, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "வருகிறான் கள்", "."], "input_ids": [5, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நான்", "வருகிறீர்கள்", "."], "input_ids": [1, 123, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நாங்கள்", "விரைவாக", "வீட்டிற்கு", "இருக்கிறான்", "."], "input_ids": [2, 84, 61, 194, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாளை", "அவள்", "வந்தாள்", "."], "input_ids": [83, 6, 225, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீங்கள்", "சந்தையில்", "வந்தேன்", "."], "input_ids": [4, 53, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "புத்தகத்தை", "பார்த்தார்கள்", "."], "input_ids": [8, 70, 258, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "நேற்று", "படிக்கிறீர்கள்", "."], "input_ids": [7, 82, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீ", "பையை", "போவேன்", "."], "input_ids": [3, 75, 310, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "வருகிறான் கள்", "."], "input_ids": [9, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நேற்று", "நீங்கள்", "வருவேன்", "."], "input_ids": [82, 4, 320, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["பார்க்கிறான்", "அவன்", "கோவிலில்", "."], "input_ids": [154, 5, 56, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "சந்தையில்", "எழுதுகிறான்", "."], "input_ids": [6, 53, 144, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["சாப்பிடுகிறீர்கள்", "நீங்கள்", "நூலகத்தில்", "."], "input_ids": [133, 4, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவள்", "கடிதத்தை", "படிப்பாள்", "."], "input_ids": [6, 71, 305, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அது", "வருவேன்", "."], "input_ids": [82, 9, 320, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்", "இன்று", "போகிறோம்", "."], "input_ids": [7, 81, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நான்", "நாளை", "வீட்டிற்கு", "படிக்கிறேன்", "."], "input_ids": [1, 83, 61, 100, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்", "மெதுவாக", "விளையாடுகிறார்", "."], "input_ids": [7, 85, 186, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நண்பன்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 45, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "வருகிறார்கள்", "."], "input_ids": [5, 84, 128, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "நாங்கள்", "படிப்போம்", "."], "input_ids": [82, 2, 301, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவன்", "நேற்று", "எழுதுகிறீர்கள்", "."], "input_ids": [5, 82, 143, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "விரைவாக", "கோவிலுக்கு", "இருக்கிறோம்", "."], "input_ids": [6, 84, 69, 191, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்", "பள்ளியில்", "பார்க்கிறோம்", "."], "input_ids": [7, 50, 151, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீ", "சாப்பிட்டேன்", "."], "input_ids": [3, 230, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்கள்", "மருத்துவமனையில்", "படிக்கிறாள்", "."], "input_ids": [8, 54, 105, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்", "நாளை", "எழுதினார்", "."], "input_ids": [7, 83, 246, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "வருகிறாள்", "."], "input_ids": [8, 125, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "பார்க்கிறீர்கள்", "."], "input_ids": [4, 83, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "ஆசிரியர்", "படிக்கிறீர்கள்", "."], "input_ids": [4, 25, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நான்", "இன்று", "சந்தைக்கு", "இருக்கிறோம்", "."], "input_ids": [1, 81, 62, 191, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவள்", "எழுதுகிறான்", "."], "input_ids": [6, 144, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "படிப்பேன்", "."], "input_ids": [4, 83, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "குழந்தை", "சாப்பிடுகிறோம்", "."], "input_ids": [2, 47, 131, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "சந்தை இல்", "."], "input_ids": [5, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நான்", "சந்தையில்", "படிக்கிறோம்", "."], "input_ids": [1, 53, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவள்", "இன்று", "படிக்கிறான்", "."], "input_ids": [6, 81, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்", "நாங்கல்", "."], "input_ids": [7, 14541, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "புத்தகத்தை", "போகிறான்", "."], "input_ids": [5, 70, 114, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "பள்ளியில்", "போகிறாள்", "."], "input_ids": [5, 50, 115, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நீங்கள்", "மாணவன்", "பார்க்கிறீர்கள்", "."], "input_ids": [4, 20, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "போனாள்", "."], "input_ids": [6, 215, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நேற்று", "அவள்", "கோவிலில்", "வருவாள்", "."], "input_ids": [82, 6, 56, 325, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "நண்பன்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 45, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "வருகிறீர்கள்", "."], "input_ids": [4, 45, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவர்கள்", "மாணவன்", "போகிறார்கள்", "."], "input_ids": [8, 20, 118, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "போவான்", "."], "input_ids": [5, 84, 314, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "மருத்துவமனையில்", "வந்தோம்", "."], "input_ids": [2, 54, 221, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "படிக்கிறாள்", "."], "input_ids": [5, 105, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவள்", "போகிறான் கள்", "."], "input_ids": [6, 4801, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீ", "நாளை", "பள்ளிக்கு", "இருக்கிறார்கள்", "."], "input_ids": [3, 83, 60, 198, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "சந்தைக்கு", "படிக்கிறேன்", "."], "input_ids": [2, 62, 100, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "புத்தகத்தை", "போவேன்", "."], "input_ids": [3, 70, 310, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நேற்று", "வீட்டில்", "வந்தோம்", "."], "input_ids": [2, 82, 51, 221, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அது", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [9, 133, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவன்", "பழத்தை", "போகிறான்", "."], "input_ids": [5, 74, 114, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "கோவிலில்", "விளையாடுகிறோம்", "."], "input_ids": [2, 56, 181, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "இன்று", "மருத்துவமனைக்கு", "இருக்கிறார்", "."], "input_ids": [4, 81, 63, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "மருத்துவமனையில்", "போவோம்", "."], "input_ids": [2, 54, 311, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நூலகம் இல்", "."], "input_ids": [6, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "இன்று", "வருகிறாள்", "."], "input_ids": [5, 81, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவள்", "கோவிலுக்கு", "இருக்கிறார்", "."], "input_ids": [6, 69, 196, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "இன்று", "வகுப்பில்", "சாப்பிட்டேன்", "."], "input_ids": [4, 81, 52, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவன்", "வகுப்பில்", "வருகிறாள்", "."], "input_ids": [5, 52, 125, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவன்", "படிக்கிறான்", "."], "input_ids": [5, 104, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நேற்று", "அவர்", "வயலில்", "படிப்பார்", "."], "input_ids": [82, 7, 57, 306, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["படிக்கிறான்", "அவன்", "மருத்துவமனையில்", "."], "input_ids": [104, 5, 54, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "எழுதுகிறாள்", "."], "input_ids": [4, 145, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவர்கள்", "ஆசிரியர்", "போகிறார்கள்", "."], "input_ids": [8, 25, 118, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "கணினியை", "சாப்பிடுகிறான்", "."], "input_ids": [5, 76, 134, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "சாப்பிடுகிறாள்", "."], "input_ids": [5, 135, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["நான்", "போனேன்", "."], "input_ids": [1, 210, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்", "இன்று", "சாப்பிட்டார்", "."], "input_ids": [7, 81, 236, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "சந்தைக்கு", "படிக்கிறான்", "."], "input_ids": [9, 62, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["எழுதுகிறோம்", "நாங்கள்", "வீட்டில்", "."], "input_ids": [141, 2, 51, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீ", "தண்ணீரை", "வந்தேன்", "."], "input_ids": [3, 73, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "இருக்கிறேன்", "."], "input_ids": [4, 83, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "மருத்துவமனையில்", "போனார்", "."], "input_ids": [83, 7, 54, 216, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "பள்ளியில்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 80, 50, 138, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "சாப்பிட்டார்கள்", "."], "input_ids": [8, 238, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாங்கள்", "விளையாடுகிறோம்", "."], "input_ids": [2, 181, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்", "பையை", "எழுதுகிறார்", "."], "input_ids": [7, 75, 146, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நூலகத்தில்", "போகிறான்", "."], "input_ids": [5, 55, 114, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நண்பன்", "படிக்கிறோம்", "."], "input_ids": [2, 45, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "வீட்டிற்கு", "படிக்கிறோம்", "."], "input_ids": [4, 61, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அது", "தினமும்", "படிக்கிறார்கள்", "."], "input_ids": [9, 80, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாங்கள்", "நூலகம் இல்", "."], "input_ids": [2, 12651, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அது", "விரைவாக", "பள்ளியில்", "ஓடுகிறேன்", "."], "input_ids": [9, 84, 50, 160, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [1, 133, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அது", "பள்ளி இல்", "."], "input_ids": [9, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்", "படிக்கிறார்", "."], "input_ids": [7, 106, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவர்", "போகிறோம்", "."], "input_ids": [7, 111, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அது", "பார்க்கிறது", "."], "input_ids": [9, 157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நான்", "விரைவாக", "விளையாடுகிறேன்", "."], "input_ids": [1, 84, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நகரத்தில்", "பார்க்கிறாள்", "."], "input_ids": [4, 58, 155, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "இன்று", "ஓடினார்கள்", "."], "input_ids": [8, 81, 268, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["சாப்பிடுகிறீர்கள்", "நீங்கள்", "நூலகத்தில்", "."], "input_ids": [133, 4, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்", "இன்று", "வீட்டில்", "இருக்கிறார்", "."], "input_ids": [7, 81, 51, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "குழந்தை", "படிக்கிறோம்", "."], "input_ids": [2, 47, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "நூலகத்தில்", "போகிறான்", "."], "input_ids": [6, 55, 114, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நாங்கள்", "மாணவன்", "எழுதுகிறோம்", "."], "input_ids": [2, 20, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அது", "நூலகத்திற்கு", "இருக்கிறார்கள்", "."], "input_ids": [9, 68, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "பார்க்கிறீர்கள்", "."], "input_ids": [4, 45, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீ", "மாணவன", "."], "input_ids": [3, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "நேற்று", "பள்ளிக்கு", "படிக்கிறான்", "."], "input_ids": [5, 82, 60, 104, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவள்", "நாளை", "சந்தைக்கு", "இருக்கிறார்கள்", "."], "input_ids": [6, 83, 62, 198, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "விளையாடுகிறார்கள்", "."], "input_ids": [8, 188, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "பையை", "விளையாடுகிறான்", "."], "input_ids": [5, 75, 184, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "நான்", "சாப்பிடுவேன்", "."], "input_ids": [82, 1, 330, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["சாப்பிடுகிறது", "அது", "பள்ளியில்", "."], "input_ids": [137, 9, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "தண்ணீரை", "விளையாடுகிறேன்", "."], "input_ids": [4, 73, 180, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "கோவிலில்", "படிக்கிறது", "."], "input_ids": [9, 56, 107, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "சாப்பிடுகிரான்", "."], "input_ids": [9, 28494, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நாங்கள்", "பள்ளிக்கு", "படிக்கிறாள்", "."], "input_ids": [2, 60, 105, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "சந்தையில்", "பார்த்தேன்", "."], "input_ids": [4, 83, 53, 250, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["படிக்கிறேன்", "நான்", "பள்ளியில்", "."], "input_ids": [100, 1, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "நகரத்தில்", "எழுதுகிறோம்", "."], "input_ids": [5, 58, 141, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 45, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாங்கள்", "நகரத்தில்", "பார்க்கிறது", "."], "input_ids": [2, 58, 157, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நான்", "பள்ளிக்கு", "படிக்கிறாள்", "."], "input_ids": [1, 60, 105, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "விரைவாக", "படித்தேன்", "."], "input_ids": [4, 84, 200, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "நாளை", "வயலில்", "விளையாடுகிறார்", "."], "input_ids": [7, 83, 57, 186, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "நாளை", "எழுதுகிறார்", "."], "input_ids": [2, 83, 146, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அது", "கணினியை", "சாப்பிடுவேன்", "."], "input_ids": [9, 76, 330, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நான்", "தினமும்", "வீட்டிற்கு", "இருக்கிறாள்", "."], "input_ids": [1, 80, 61, 195, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["எழுதுகிறாள்", "அவள்", "நகரத்தில்", "."], "input_ids": [145, 6, 58, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "வயலில்", "எழுதுகிறாய்", "."], "input_ids": [4, 57, 142, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["படிக்கிறீர்கள்", "நீங்கள்", "வயலில்", "."], "input_ids": [103, 4, 57, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "தினமும்", "நூலகத்தில்", "படிப்பான்", "."], "input_ids": [5, 80, 55, 304, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "பல்லி", "."], "input_ids": [2, 18401, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவர்கள்", "புத்தகத்தை", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 70, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "நாங்கல்", "."], "input_ids": [6, 14541, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நீ", "சந்தை இல்", "."], "input_ids": [3, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நாளை", "நீ", "நூலகத்தில்", "சாப்பிட்டேன்", "."], "input_ids": [83, 3, 55, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "போகிரான்", "."], "input_ids": [8, 24468, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவர்", "நேற்று", "படிக்கிறார்", "."], "input_ids": [7, 82, 106, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "வந்தார்", "."], "input_ids": [83, 7, 226, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நான்", "வகுப்பில்", "எழுதினேன்", "."], "input_ids": [1, 52, 240, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "விரைவாக", "சந்தைக்கு", "படிக்கிறோம்", "."], "input_ids": [4, 84, 62, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "எழுதுகிறோம்", "."], "input_ids": [2, 141, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாங்கள்", "கோவிலில்", "போவோம்", "."], "input_ids": [2, 56, 311, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "விரைவாக", "வீட்டிற்கு", "படிக்கிறீர்கள்", "."], "input_ids": [4, 84, 61, 103, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அது", "ஓடுகிறேன்", "."], "input_ids": [9, 160, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீ", "தினமும்", "சந்தைக்கு", "இருக்கிறாள்", "."], "input_ids": [3, 80, 62, 195, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நான்", "வகுப்பில்", "சாப்பிடுகிறார்கள்", "."], "input_ids": [1, 52, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "விரைவாக", "வீட்டில்", "பார்க்கிறார்கள்", "."], "input_ids": [8, 84, 51, 158, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "இன்று", "பார்க்கிறாள்", "."], "input_ids": [8, 81, 155, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "போகிறீர்கள்", "."], "input_ids": [4, 45, 113, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "பள்ளிக்கு", "படிக்கிறோம்", "."], "input_ids": [4, 83, 60, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீ", "போகிறோம்", "."], "input_ids": [3, 111, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவர்", "பழத்தை", "வந்தார்", "."], "input_ids": [7, 74, 226, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீ", "காட்டில்", "பார்க்கிறீர்கள்", "."], "input_ids": [3, 59, 153, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "நாங்கள்", "படிப்போம்", "."], "input_ids": [82, 2, 301, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "போகிறீர்கள்", "."], "input_ids": [4, 45, 113, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "போகிறாய்", "."], "input_ids": [4, 112, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நான்", "தினமும்", "வகுப்பில்", "வருவேன்", "."], "input_ids": [1, 80, 52, 320, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அவன்", "கோவிலில்", "போவான்", "."], "input_ids": [82, 5, 56, 314, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["எழுதுகிறார்", "அவர்", "மருத்துவமனையில்", "."], "input_ids": [146, 7, 54, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "தினமும்", "சாப்பிடுவான்", "."], "input_ids": [5, 80, 334, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "விரைவாக", "சந்தைக்கு", "இருக்கிறார்கள்", "."], "input_ids": [6, 84, 62, 198, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "பார்கிறான்", "."], "input_ids": [4, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவன்", "வருகிறீர்கள்", "."], "input_ids": [5, 123, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நாங்கள்", "பையை", "படித்தோம்", "."], "input_ids": [2, 75, 201, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நேற்று", "அவர்கள்", "நூலகத்தில்", "போவார்கள்", "."], "input_ids": [82, 8, 55, 318, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்", "தினமும்", "காட்டில்", "இருக்கிறார்", "."], "input_ids": [7, 80, 59, 196, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "மாணவன்", "எழுதுகிறீர்கள்", "."], "input_ids": [4, 20, 143, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நேற்று", "அவர்", "மருத்துவமனையில்", "வருவார்", "."], "input_ids": [82, 7, 54, 326, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவன்", "படிக்கிறோம்", "."], "input_ids": [5, 101, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நீ", "பார்கிறான்", "."], "input_ids": [3, 9272, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நாளை", "அவன்", "எழுதினான்", "."], "input_ids": [83, 5, 244, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "மெதுவாக", "இருக்கிறார்கள்", "."], "input_ids": [8, 85, 198, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நாளை", "வருகிறது", "."], "input_ids": [4, 83, 127, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்", "நாளை", "கோவிலில்", "படிப்பார்", "."], "input_ids": [7, 83, 56, 306, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["எழுதுகிறோம்", "நாங்கள்", "பள்ளியில்", "."], "input_ids": [141, 2, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "இன்று", "வகுப்பில்", "படிப்பார்கள்", "."], "input_ids": [8, 81, 52, 308, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "வீடு க்கு", "."], "input_ids": [1, 27123, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்கள்", "சந்தைக்கு", "இருக்கிறாள்", "."], "input_ids": [8, 62, 195, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "மாணவன", "."], "input_ids": [8, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["நீ", "தினமும்", "வீட்டில்", "சாப்பிட்டேன்", "."], "input_ids": [3, 80, 51, 230, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீ", "இன்று", "சாப்பிடுகிறார்கள்", "."], "input_ids": [3, 81, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நேற்று", "அது", "போவேன்", "."], "input_ids": [82, 9, 310, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்", "கணினியை", "படித்தார்", "."], "input_ids": [7, 76, 206, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "சாப்பிடுவார்", "."], "input_ids": [7, 336, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீ", "வருகிறான் கள்", "."], "input_ids": [3, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["போகிறேன்", "நான்", "சந்தையில்", "."], "input_ids": [110, 1, 53, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 133, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நீங்கள்", "விரைவாக", "நூலகத்தில்", "படிக்கிறீர்கள்", "."], "input_ids": [4, 84, 55, 103, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "வருகிறான் கள்", "."], "input_ids": [2, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவர்கள்", "நண்பன்", "எழுதுகிறார்கள்", "."], "input_ids": [8, 45, 148, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "படிக்கிறீர்கள்", "."], "input_ids": [4, 45, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவன்", "நேற்று", "படிக்கிறாள்", "."], "input_ids": [5, 82, 105, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "நகரத்தில்", "போனார்கள்", "."], "input_ids": [8, 80, 58, 218, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவள்", "நாளை", "எழுதுகிறான்", "."], "input_ids": [6, 83, 144, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நான்", "வீட்டில்", "பார்க்கிறார்கள்", "."], "input_ids": [1, 51, 158, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவன்", "தினமும்", "வந்தான்", "."], "input_ids": [5, 80, 224, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "படிக்கிறார்கள்", "."], "input_ids": [5, 84, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவன்", "மருத்துவமனையில்", "பார்க்கிறான்", "."], "input_ids": [5, 54, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "கோவிலுக்கு", "இருக்கிறாள்", "."], "input_ids": [7, 69, 195, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அது", "இன்று", "வீட்டில்", "படிக்கிறது", "."], "input_ids": [9, 81, 51, 107, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "நாளை", "படிக்கிறான்", "."], "input_ids": [8, 83, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நீ", "நாளை", "வீட்டில்", "போவேன்", "."], "input_ids": [3, 83, 51, 310, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["படிக்கிறீர்கள்", "நீங்கள்", "சந்தையில்", "."], "input_ids": [103, 4, 53, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாளை", "நீங்கள்", "எழுதினேன்", "."], "input_ids": [83, 4, 240, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நான்", "நாளை", "வருகிறீர்கள்", "."], "input_ids": [1, 83, 123, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["நாளை", "நீ", "மருத்துவமனையில்", "வந்தேன்", "."], "input_ids": [83, 3, 54, 220, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நீ", "பார்க்கிறாய்", "."], "input_ids": [3, 152, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "நேற்று", "வீட்டில்", "பார்த்தான்", "."], "input_ids": [5, 82, 51, 254, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவள்", "இன்று", "வருகிறான்", "."], "input_ids": [6, 81, 124, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["போகிறான்", "அவன்", "நூலகத்தில்", "."], "input_ids": [114, 5, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நேற்று", "அது", "படிப்பேன்", "."], "input_ids": [82, 9, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவர்", "காட்டில்", "படிக்கிறோம்", "."], "input_ids": [7, 59, 101, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்கள்", "நூலகத்திற்கு", "இருக்கிறான்", "."], "input_ids": [8, 68, 194, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["நீ", "தண்ணீரை", "இருக்கிறேன்", "."], "input_ids": [3, 73, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "படிக்கிறாள்", "."], "input_ids": [5, 105, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவள்", "இன்று", "மருத்துவமனைக்கு", "இருக்கிறாள்", "."], "input_ids": [6, 81, 63, 195, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அது", "போகிறீர்கள்", "."], "input_ids": [9, 113, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நீங்கள்", "வருகிறான்", "."], "input_ids": [4, 124, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவர்", "பள்ளி க்கு", "."], "input_ids": [7, 12357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அது", "விரைவாக", "நூலகத்தில்", "இருக்கிறேன்", "."], "input_ids": [9, 84, 55, 190, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "எழுதுகிறது", "."], "input_ids": [2, 147, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["அவன்", "போகிறாள்", "."], "input_ids": [5, 115, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["அவள்", "இன்று", "வீட்டில்", "வருகிறாள்", "."], "input_ids": [6, 81, 51, 125, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "பேசுகிறேன்", "."], "input_ids": [4, 170, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாங்கள்", "நேற்று", "போகிறோம்", "."], "input_ids": [2, 82, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவள்", "வருகிறான்", "."], "input_ids": [6, 124, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 1, 0]}
+{"tokens": ["நீங்கள்", "வருகிறான் கள்", "."], "input_ids": [4, 2280, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீ", "கடிதத்தை", "வருகிறாய்", "."], "input_ids": [3, 71, 122, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["எழுதுகிறாய்", "நீ", "நூலகத்தில்", "."], "input_ids": [142, 3, 55, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["அவன்", "கடிதத்தை", "படிப்பான்", "."], "input_ids": [5, 71, 304, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 45, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாளை", "அவர்", "மருத்துவமனையில்", "சாப்பிட்டார்", "."], "input_ids": [83, 7, 54, 236, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவள்", "தினமும்", "சந்தைக்கு", "படிக்கிறார்கள்", "."], "input_ids": [6, 80, 62, 108, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நீங்கள்", "நண்பன்", "சாப்பிடுகிறீர்கள்", "."], "input_ids": [4, 45, 133, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நான்", "கணினியை", "பேசுகிறேன்", "."], "input_ids": [1, 76, 170, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "விரைவாக", "இருக்கிறேன்", "."], "input_ids": [4, 84, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "வீட்டில்", "விளையாடுகிறார்கள்", "."], "input_ids": [8, 51, 188, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்", "சாப்பாட்டை", "போகிறார்", "."], "input_ids": [7, 72, 116, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "குழந்தை", "போகிறீர்கள்", "."], "input_ids": [4, 47, 113, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீ", "கடிதத்தை", "ஓடினேன்", "."], "input_ids": [3, 71, 260, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "ஆசிரியர்", "படிக்கிறீர்கள்", "."], "input_ids": [4, 25, 103, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["அவள்", "பள்ளியில்", "எழுதுகிறீர்கள்", "."], "input_ids": [6, 50, 143, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அது", "தினமும்", "வருவேன்", "."], "input_ids": [9, 80, 320, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "கோவிலில்", "எழுதினோம்", "."], "input_ids": [2, 56, 241, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "நாளை", "நூலகத்தில்", "போகிறான்", "."], "input_ids": [5, 83, 55, 114, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "பள்ளி இல்", "."], "input_ids": [1, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நான்", "பாலை", "வந்தேன்", "."], "input_ids": [1, 77, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "குழந்தை", "படிக்கிறார்கள்", "."], "input_ids": [8, 47, 108, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நீங்கள்", "சாப்பிடுகிறான்", "."], "input_ids": [4, 134, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நேற்று", "அவன்", "போவான்", "."], "input_ids": [82, 5, 314, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவள்", "வீட்டில்", "படிக்கிறான்", "."], "input_ids": [6, 51, 104, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["அது", "தினமும்", "நூலகத்திற்கு", "படிக்கிறான்", "."], "input_ids": [9, 80, 68, 104, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நாங்கள்", "மருத்துவமனையில்", "போனோம்", "."], "input_ids": [2, 54, 211, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவன்", "மாணவன", "."], "input_ids": [5, 13549, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 8, 0]}
+{"tokens": ["அவள்", "வகுப்பில்", "பார்க்கிறான்", "."], "input_ids": [6, 52, 154, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 1, 0]}
+{"tokens": ["நேற்று", "நான்", "படிப்பேன்", "."], "input_ids": [82, 1, 300, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["அவள்", "படிக்கிறான் கள்", "."], "input_ids": [6, 17669, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீங்கள்", "பழத்தை", "படித்தேன்", "."], "input_ids": [4, 74, 200, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "விரைவாக", "சந்தையில்", "வருவோம்", "."], "input_ids": [2, 84, 53, 321, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவர்", "சாப்பாட்டை", "போனார்", "."], "input_ids": [7, 72, 216, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["பார்க்கிறான்", "அவன்", "பள்ளியில்", "."], "input_ids": [154, 5, 50, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [1, 0, 0, 0], "error_labels": [6, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "பள்ளி இல்", "."], "input_ids": [2, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நாளை", "நீங்கள்", "சந்தையில்", "படித்தேன்", "."], "input_ids": [83, 4, 53, 200, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்", "நேற்று", "வீட்டிற்கு", "படிக்கிறான்", "."], "input_ids": [7, 82, 61, 104, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவள்", "படிக்கிறீர்கள்", "."], "input_ids": [6, 103, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நாங்கள்", "இன்று", "போகிறோம்", "."], "input_ids": [2, 81, 111, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அவர்கள்", "சாப்பாட்டை", "சாப்பிடுகிறார்கள்", "."], "input_ids": [8, 72, 138, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "தினமும்", "சாப்பிடுகிறார்", "."], "input_ids": [2, 80, 136, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 3, 0]}
+{"tokens": ["அவர்", "தண்ணீரை", "எழுதுகிறார்", "."], "input_ids": [7, 73, 146, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாங்கள்", "இன்று", "வீட்டிற்கு", "படிக்கிறேன்", "."], "input_ids": [2, 81, 61, 100, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவள்", "படிக்கிறாள்", "."], "input_ids": [6, 105, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவள்", "தினமும்", "பார்த்தாள்", "."], "input_ids": [6, 80, 255, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "பார்க்கிறது", "."], "input_ids": [9, 157, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["அவன்", "விரைவாக", "சாப்பிடுவான்", "."], "input_ids": [5, 84, 334, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நீங்கள்", "சந்தை இல்", "."], "input_ids": [4, 17519, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீ", "பள்ளி இல்", "."], "input_ids": [3, 28357, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["அவன்", "புத்தகத்தை", "வருகிறான்", "."], "input_ids": [5, 70, 124, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["நாளை", "நான்", "வந்தேன்", "."], "input_ids": [83, 1, 220, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நாளை", "நாங்கள்", "போனோம்", "."], "input_ids": [83, 2, 211, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நான்", "கணினியை", "இருக்கிறேன்", "."], "input_ids": [1, 76, 190, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
+{"tokens": ["அது", "நாளை", "பள்ளிக்கு", "படிக்கிறோம்", "."], "input_ids": [9, 83, 60, 101, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["நேற்று", "நீங்கள்", "மருத்துவமனையில்", "போவேன்", "."], "input_ids": [82, 4, 54, 310, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["நாங்கள்", "ஆசிரியர்", "சாப்பிடுகிறோம்", "."], "input_ids": [2, 25, 131, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 7, 0, 0]}
+{"tokens": ["நாங்கள்", "விரைவாக", "வீட்டில்", "பேசுகிறோம்", "."], "input_ids": [2, 84, 51, 171, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அது", "வந்தேன்", "."], "input_ids": [9, 220, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 0, 0], "error_labels": [0, 0, 0]}
+{"tokens": ["நாளை", "அவள்", "வகுப்பில்", "போனாள்", "."], "input_ids": [83, 6, 52, 215, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 1, 0], "error_labels": [0, 0, 0, 2, 0]}
+{"tokens": ["அவர்கள்", "நாளை", "வகுப்பில்", "ஓடுகிறார்கள்", "."], "input_ids": [8, 83, 52, 168, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["அவன்", "போகிறோம்", "."], "input_ids": [5, 111, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 3, 0]}
+{"tokens": ["நாளை", "அது", "எழுதினேன்", "."], "input_ids": [83, 9, 240, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 1, 0], "error_labels": [0, 0, 2, 0]}
+{"tokens": ["நான்", "விரைவாக", "கோவிலுக்கு", "படிக்கிறார்", "."], "input_ids": [1, 84, 69, 106, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அது", "சந்தைக்கு", "இருக்கிறோம்", "."], "input_ids": [9, 62, 191, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 1, 0, 0], "error_labels": [0, 4, 0, 0]}
+{"tokens": ["அவர்", "படிக்கிறான் கள்", "."], "input_ids": [7, 17669, 990], "attention_mask": [1, 1, 1], "binary_labels": [0, 1, 0], "error_labels": [0, 5, 0]}
+{"tokens": ["நீ", "விரைவாக", "மருத்துவமனைக்கு", "படிக்கிறார்கள்", "."], "input_ids": [3, 84, 63, 108, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 1, 0, 0], "error_labels": [0, 0, 4, 0, 0]}
+{"tokens": ["அவர்கள்", "தினமும்", "வயலில்", "ஓடுகிறார்கள்", "."], "input_ids": [8, 80, 57, 168, 990], "attention_mask": [1, 1, 1, 1, 1], "binary_labels": [0, 0, 0, 0, 0], "error_labels": [0, 0, 0, 0, 0]}
+{"tokens": ["நான்", "காட்டில்", "எழுதுகிறேன்", "."], "input_ids": [1, 59, 140, 990], "attention_mask": [1, 1, 1, 1], "binary_labels": [0, 0, 0, 0], "error_labels": [0, 0, 0, 0]}
